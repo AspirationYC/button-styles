@@ -21,6 +21,7 @@ div {
   border-radius: 8px;
   font-size: 1.125rem;
   display: inline-block;
+  border-width: 3px;
 }
 
 .btn:hover {
@@ -39,7 +40,6 @@ div {
 .btn-ghost {
   background-color: #fff;
   color: #000;
-  border: 3px solid #000;
 }
 
 .btn-ghost:hover {
